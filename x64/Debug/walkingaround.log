@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Files\c++ programming\opengl\GLFW\walkingaround\main.cpp(48,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Files\c++ programming\opengl\GLFW\walkingaround\main.cpp(69,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Files\c++ programming\opengl\GLFW\walkingaround\main.cpp(72,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Files\c++ programming\opengl\GLFW\walkingaround\main.cpp(201,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  walkingaround.vcxproj -> E:\Files\c++ programming\opengl\GLFW\walkingaround\x64\Debug\walkingaround.exe
